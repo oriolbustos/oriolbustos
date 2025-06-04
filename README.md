@@ -6,4 +6,4 @@
 
 ### 🧑🏻‍💻 Data Scientist @ [Micelab](https://micelab.udg.edu/)
 
-### 🔗 [LinkedIn](https://www.linkedin.com/in/oriol-bustos)
+### 🔗 [LinkedIn](https://www.linkedin.com/in/oriolbustos)
