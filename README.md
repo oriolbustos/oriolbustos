@@ -4,6 +4,6 @@
 ### 🎓 BSc. in Biomedical Engineering from [University of Barcelona | Faculty of Medicine](https://www.ub.edu/portal/web/medicina-ciencies-salut)
 ### 🎓 MSc. in Data Science from [University of Girona](https://www.udg.edu/en/)
 
-### 🧑🏻‍💻 Data Scientist @ [NTT Data - Healthcare]((https://www.nttdata.com/global/en/industries/healthcare)
+### 🧑🏻‍💻 Data Scientist @ [NTT Data - Healthcare](https://www.nttdata.com/global/en/industries/healthcare)
 
 ### 🔗 [LinkedIn](https://www.linkedin.com/in/oriolbustos)
